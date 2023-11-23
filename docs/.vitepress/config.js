@@ -8,7 +8,7 @@ const OurDocumentationSidebar = [
 
 ]
 
-base: "/.",
+base: ".",
 
 module.exports = {
     title: 'CommerceSync Bundle Docs',
