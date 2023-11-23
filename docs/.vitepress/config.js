@@ -1,4 +1,6 @@
-
+export default {
+    base: '/documentation/'
+  }
 
 const OurDocumentationSidebar = [
     { text: 'Introduction', link: '/documentation/intro'},
@@ -8,7 +10,7 @@ const OurDocumentationSidebar = [
 
 ]
 
-base: ".",
+
 
 module.exports = {
     title: 'CommerceSync Bundle Docs',
