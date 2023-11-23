@@ -1,5 +1,5 @@
 export default {
-    base: '/documentation/'
+    base: '/'
   }
 
 const OurDocumentationSidebar = [
