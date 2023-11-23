@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,R as o}from"./chunks/framework.knLoFo0c.js";const b=JSON.parse('{"title":"CommerceSync Hub Bundle","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"},c=o("",6),r=[c];function i(s,d,h,l,m,u){return t(),a("div",null,r)}const p=e(n,[["render",i]]);export{b as __pageData,p as default};
