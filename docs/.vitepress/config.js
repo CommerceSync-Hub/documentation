@@ -1,3 +1,5 @@
+
+
 const OurDocumentationSidebar = [
     { text: 'Introduction', link: '/documentation/intro'},
     { text: 'Product Bridge', link: '/documentation/productbridge'},
@@ -5,6 +7,8 @@ const OurDocumentationSidebar = [
     { text: 'CommerceSync Theme', link: '/documentation/commercesync-theme'},
 
 ]
+
+base: "/.",
 
 module.exports = {
     title: 'CommerceSync Bundle Docs',
