@@ -1,6 +1,4 @@
-export default {
-    base: '/'
-  }
+
 
 const OurDocumentationSidebar = [
     { text: 'Introduction', link: '/documentation/intro'},
